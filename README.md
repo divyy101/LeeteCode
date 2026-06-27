@@ -35,6 +35,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/divyy101/LeeteCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyy101/LeeteCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/divyy101/LeeteCode/tree/master/0027-remove-element) |
+| [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyy101/LeeteCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/divyy101/LeeteCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyy101/LeeteCode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
