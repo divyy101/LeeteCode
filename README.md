@@ -53,6 +53,7 @@
 | [0238-product-of-array-except-self](https://github.com/divyy101/LeeteCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divyy101/LeeteCode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/divyy101/LeeteCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/divyy101/LeeteCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyy101/LeeteCode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/divyy101/LeeteCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
