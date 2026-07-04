@@ -5,13 +5,13 @@ class Solution {
         for (int i = 0; i < k; i++) {
             sum += nums[i];
         }
-        int maxSum = sum;
+        int max = sum;
         for (int i = k; i < n; i++) {
             sum = sum - nums[i - k] + nums[i];
-            if (sum > maxSum) {
-                maxSum = sum;
+            if (sum > max) {
+                max = sum;
             }
         }
-        return (double) maxSum / k;
+        return (double) max / k;
     }
 }
