@@ -18,6 +18,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
+| [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/divyy101/LeeteCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
+| [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyy101/LeeteCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/divyy101/LeeteCode/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,8 +121,10 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/divyy101/LeeteCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
