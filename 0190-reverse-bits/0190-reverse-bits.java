@@ -1,12 +1,17 @@
 class Solution {
     public int reverseBits(int n) {
-        int rev = 0;
-
-        for(int i=0; i<32;i++){
-            rev = (rev << 1) | (n & 1);
-            n = n >> 1;
+        int res = 0,c=0;
+        while(n!=0){
+                res=res<<1;
+            if(n%2==1){
+                res=res|1;
+            }
+        
+            n=n>>1;
+            c++;
         }
+        res=res<<32-c;
 
-        return rev;
+     return res;
     }
 }
