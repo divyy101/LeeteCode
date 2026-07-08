@@ -32,7 +32,7 @@ class Solution {
                 ans = m;
                 r = m - 1;
             }
-            else if (!check(piles, h, m)) {
+        else {
                 l = m + 1;
             }
         }
