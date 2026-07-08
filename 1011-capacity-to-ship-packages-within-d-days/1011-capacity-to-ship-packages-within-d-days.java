@@ -13,7 +13,7 @@ class Solution {
                 days--;
                 sum = 0;
 
-                if (days < 0)
+                if (days< 0)
                     return false;
             }
 
@@ -25,24 +25,24 @@ class Solution {
 
     public int shipWithinDays(int[] weights, int days) {
 
-        int low = 0, high = 0;
+        int l = 0, r = 0;
 
         for (int i = 0; i < weights.length; i++) {
-            low = Math.max(low, weights[i]);
-            high += weights[i];
+            l= Math.max(l, weights[i]);
+            r += weights[i];
         }
 
-        int ans = high;
+        int ans = r;
 
-        while (low <= high) {
+        while (l<= r) {
 
-            int mid = low + (high - low) / 2;
+            int mid = l + (r - l) / 2;
 
             if (check(weights, days, mid)) {
                 ans = mid;
-                high = mid - 1;
+                r = mid - 1;
             } else {
-                low = mid + 1;
+                l = mid + 1;
             }
         }
 
