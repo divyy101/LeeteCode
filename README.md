@@ -52,6 +52,7 @@
 | [0001-two-sum](https://github.com/divyy101/LeeteCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyy101/LeeteCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/divyy101/LeeteCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/divyy101/LeeteCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/divyy101/LeeteCode/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyy101/LeeteCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyy101/LeeteCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
