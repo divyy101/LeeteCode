@@ -23,7 +23,7 @@ class Solution {
 
         int l = 1;
         int r = max;
-        int ans = max;
+        int ans = 0;
 
         while (l <= r) {
             int m = l + (r - l) / 2;
