@@ -1,49 +1,42 @@
+class Solution {
 
- class Solution {
+    static boolean check(int[] piles, int h, int k) {
+        int s = 0;
 
-    public static int minEatingSpeed(int[] piles, int h) {
+        for (int i = 0; i < piles.length; i++) {
+            s += (piles[i] + k - 1) / k;
 
-        int low = 1;
-        int high = 0;
-
-        for (int pile : piles) {
-            high = Math.max(high, pile);
+            if (s > h)
+                return false;
         }
 
-        while (low < high) {
-
-            int mid = low + (high - low) / 2;
-
-            int hours = 0;
-
-            for (int pile : piles) {
-                hours += (pile + mid - 1) / mid;
-            }
-
-            if (hours <= h) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
-        }
-
-        return low;
+        return true;
     }
 
-    public static void main(String[] args) {
+    public int minEatingSpeed(int[] piles, int h) {
 
-        Scanner sc = new Scanner(System.in);
-
-        int n = sc.nextInt();
-
-        int[] piles = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            piles[i] = sc.nextInt();
+        int max = piles[0];
+        for (int i = 1; i < piles.length; i++) {
+            if (piles[i] > max)
+                max = piles[i];
         }
 
-        int h = sc.nextInt();
+        int l = 1;
+        int r = max;
+        int ans = max;
 
-        System.out.println(minEatingSpeed(piles, h));
+        while (l <= r) {
+            int m = l + (r - l) / 2;
+
+            if (check(piles, h, m)) {
+                ans = m;
+                r = m - 1;
+            }
+            else if (!check(piles, h, m)) {
+                l = m + 1;
+            }
+        }
+
+        return ans;
     }
 }
