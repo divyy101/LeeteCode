@@ -3,15 +3,15 @@ import java.util.*;
 class Solution {
 
     static boolean check(int[] position, int m, int dist) {
-        int count = 1;
+        m=m-1;
         int last = position[0];
 
         for (int i = 1; i < position.length; i++) {
             if (position[i] - last >= dist) {
-                count++;
+                m--;
                 last = position[i];
 
-                if (count >= m)
+                if ( m==0)
                     return true;
             }
         }
