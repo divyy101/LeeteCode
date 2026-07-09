@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/divyy101/LeeteCode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -55,6 +56,7 @@
 | [0027-remove-element](https://github.com/divyy101/LeeteCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/divyy101/LeeteCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/divyy101/LeeteCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/divyy101/LeeteCode/tree/master/0074-search-a-2d-matrix) |
@@ -172,6 +174,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/divyy101/LeeteCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/divyy101/LeeteCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
