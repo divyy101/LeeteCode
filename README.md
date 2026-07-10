@@ -72,6 +72,7 @@
 | [0283-move-zeroes](https://github.com/divyy101/LeeteCode/tree/master/0283-move-zeroes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/divyy101/LeeteCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/divyy101/LeeteCode/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/divyy101/LeeteCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/divyy101/LeeteCode/tree/master/0875-koko-eating-bananas) |
@@ -179,5 +180,6 @@
 | [0045-jump-game-ii](https://github.com/divyy101/LeeteCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/divyy101/LeeteCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/divyy101/LeeteCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/divyy101/LeeteCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
