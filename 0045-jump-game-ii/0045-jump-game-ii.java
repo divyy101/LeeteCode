@@ -2,7 +2,7 @@ class Solution {
     public int jump (int[] nums) {
         int j = 1;
         int max = nums[0];
-        int  last= nums[0];
+        int  last= max;
         if(nums.length==1){
             return 0;
         }
