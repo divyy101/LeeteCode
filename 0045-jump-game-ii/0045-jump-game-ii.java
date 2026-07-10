@@ -13,6 +13,11 @@ class Solution {
             if (i == last) {
                 j++;
                 last= max;
+                if(max>=nums.length-1){
+                    
+
+                    break;
+                }
             }
         }
 
