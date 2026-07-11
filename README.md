@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -78,6 +79,7 @@
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/divyy101/LeeteCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/divyy101/LeeteCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/divyy101/LeeteCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/divyy101/LeeteCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -193,5 +195,6 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/divyy101/LeeteCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
