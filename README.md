@@ -176,6 +176,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyy101/LeeteCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/divyy101/LeeteCode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
@@ -196,5 +197,6 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyy101/LeeteCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/divyy101/LeeteCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
