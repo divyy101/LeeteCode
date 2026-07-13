@@ -78,6 +78,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divyy101/LeeteCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/divyy101/LeeteCode/tree/master/0303-range-sum-query-immutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyy101/LeeteCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/divyy101/LeeteCode/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
@@ -218,4 +220,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/divyy101/LeeteCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/divyy101/LeeteCode/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/divyy101/LeeteCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
