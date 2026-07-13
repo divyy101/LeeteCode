@@ -3,7 +3,7 @@ class NumArray {
     int[] arr;
 
     public NumArray(int[] nums) {
-        arr = nums;              // no clone
+        arr = nums;             
         ft = new int[nums.length + 1];
 
         for (int i = 0; i < nums.length; i++) {
