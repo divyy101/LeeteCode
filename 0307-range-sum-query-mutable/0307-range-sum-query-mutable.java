@@ -1,45 +1,46 @@
 class NumArray {
     int[] ft;
-    int[] arr;
+    int[] nums;
 
     public NumArray(int[] nums) {
-        arr = nums;             
+        this.nums = nums;
         ft = new int[nums.length + 1];
 
         for (int i = 0; i < nums.length; i++) {
-            updateFT(i + 1, nums[i]);
+            int j = i + 1;
+            while (j < ft.length) {
+                ft[j] += nums[i];
+                j += j & -j;
+            }
         }
-    }
-
-    void updateFT(int l, int r) {
-        int i = l;
-
-        while (i < ft.length) {
-            ft[i] = ft[i] + r;
-            i = i + (i & -i);
-        }
-    }
-
-    int rangeSum(int r) {
-        int i = r;
-        int sum = 0;
-
-        while (i > 0) {
-            sum = sum + ft[i];
-            i = i - (i & -i);
-        }
-
-        return sum;
     }
 
     public void update(int index, int val) {
-        int dif = val - arr[index];
-        arr[index] = val;
+        int diff = val - nums[index];
+        nums[index] = val;
 
-        updateFT(index + 1, dif);
+        int j = index + 1;
+        while (j < ft.length) {
+            ft[j] += diff;
+            j += j & -j;
+        }
     }
 
     public int sumRange(int left, int right) {
-        return rangeSum(right+1 ) - rangeSum(left);
+        int rightSum = 0, leftSum = 0;
+
+        int j = right + 1;
+        while (j > 0) {
+            rightSum += ft[j];
+            j -= j & -j;
+        }
+
+        j = left;
+        while (j > 0) {
+            leftSum += ft[j];
+            j -= j & -j;
+        }
+
+        return rightSum - leftSum;
     }
 }
