@@ -33,13 +33,13 @@ class NumArray {
     }
 
     public void update(int index, int val) {
-        int difference = val - arr[index];
+        int dif = val - arr[index];
         arr[index] = val;
 
-        updateFT(index + 1, difference);
+        updateFT(index + 1, dif);
     }
 
     public int sumRange(int left, int right) {
-        return rangeSum(right + 1) - rangeSum(left);
+        return rangeSum(right+1 ) - rangeSum(left);
     }
 }
