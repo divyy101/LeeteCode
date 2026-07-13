@@ -79,6 +79,7 @@
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divyy101/LeeteCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/divyy101/LeeteCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/divyy101/LeeteCode/tree/master/0307-range-sum-query-mutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
@@ -145,6 +146,7 @@
 | [0190-reverse-bits](https://github.com/divyy101/LeeteCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/divyy101/LeeteCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/divyy101/LeeteCode/tree/master/0307-range-sum-query-mutable) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
@@ -224,4 +226,13 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/divyy101/LeeteCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/divyy101/LeeteCode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/divyy101/LeeteCode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/divyy101/LeeteCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
