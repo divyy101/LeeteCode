@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/divyy101/LeeteCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/divyy101/LeeteCode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyy101/LeeteCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/divyy101/LeeteCode/tree/master/0283-move-zeroes) |
@@ -239,5 +240,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/divyy101/LeeteCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
