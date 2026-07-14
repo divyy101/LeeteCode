@@ -157,6 +157,7 @@
 | [0283-move-zeroes](https://github.com/divyy101/LeeteCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -235,4 +236,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/divyy101/LeeteCode/tree/master/0307-range-sum-query-mutable) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
