@@ -100,6 +100,7 @@
 | [1720-decode-xored-array](https://github.com/divyy101/LeeteCode/tree/master/1720-decode-xored-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/divyy101/LeeteCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [0547-number-of-provinces](https://github.com/divyy101/LeeteCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/divyy101/LeeteCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divyy101/LeeteCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
