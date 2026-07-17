@@ -261,12 +261,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyy101/LeeteCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/divyy101/LeeteCode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyy101/LeeteCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/divyy101/LeeteCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/divyy101/LeeteCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/divyy101/LeeteCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -284,6 +286,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyy101/LeeteCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/divyy101/LeeteCode/tree/master/0404-sum-of-left-leaves) |
 ## Backtracking
 |  |
