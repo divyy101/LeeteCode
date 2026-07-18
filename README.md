@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/divyy101/LeeteCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/divyy101/LeeteCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/divyy101/LeeteCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyy101/LeeteCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/divyy101/LeeteCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/divyy101/LeeteCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/divyy101/LeeteCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/divyy101/LeeteCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
@@ -44,6 +46,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/divyy101/LeeteCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
