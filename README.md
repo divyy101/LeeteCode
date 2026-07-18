@@ -127,6 +127,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/divyy101/LeeteCode/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -273,6 +274,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/divyy101/LeeteCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/divyy101/LeeteCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/divyy101/LeeteCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/divyy101/LeeteCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divyy101/LeeteCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -281,6 +283,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/divyy101/LeeteCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/divyy101/LeeteCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/divyy101/LeeteCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/divyy101/LeeteCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divyy101/LeeteCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -299,6 +302,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/divyy101/LeeteCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/divyy101/LeeteCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/divyy101/LeeteCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divyy101/LeeteCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -311,4 +315,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/divyy101/LeeteCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/divyy101/LeeteCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
