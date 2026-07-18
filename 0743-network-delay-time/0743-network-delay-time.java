@@ -45,13 +45,13 @@ class Solution {
                 continue;
             }
 
-            for (Edge nei : graph.get(curr.v)) {
+            for (Edge x : graph.get(curr.v)) {
 
-                if (dist[curr.v] + nei.w < dist[nei.v]) {
+                if (dist[curr.v] + x.w < dist[x.v]) {
 
-                    dist[nei.v] = dist[curr.v] + nei.w;
+                    dist[x.v] = dist[curr.v] + x.w;
 
-                    pq.offer(new Edge(nei.v, dist[nei.v]));
+                    pq.offer(new Edge(x.v, dist[x.v]));
                 }
             }
         }
