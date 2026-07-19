@@ -205,6 +205,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
+| [0796-rotate-string](https://github.com/divyy101/LeeteCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyy101/LeeteCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
@@ -324,4 +325,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/divyy101/LeeteCode/tree/master/0743-network-delay-time) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/divyy101/LeeteCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
