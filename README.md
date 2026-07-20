@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyy101/LeeteCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/divyy101/LeeteCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
@@ -24,6 +25,7 @@
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/divyy101/LeeteCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1720-decode-xored-array](https://github.com/divyy101/LeeteCode/tree/master/1720-decode-xored-array) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
@@ -32,6 +34,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
