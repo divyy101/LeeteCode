@@ -10,6 +10,7 @@
 | [0070-climbing-stairs](https://github.com/divyy101/LeeteCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyy101/LeeteCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/divyy101/LeeteCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/divyy101/LeeteCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
@@ -344,4 +346,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/divyy101/LeeteCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
