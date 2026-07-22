@@ -46,6 +46,7 @@
 | [0045-jump-game-ii](https://github.com/divyy101/LeeteCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/divyy101/LeeteCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/divyy101/LeeteCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/divyy101/LeeteCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/divyy101/LeeteCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/divyy101/LeeteCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/0435-non-overlapping-intervals) |
@@ -82,6 +83,7 @@
 | [0066-plus-one](https://github.com/divyy101/LeeteCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/divyy101/LeeteCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divyy101/LeeteCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/divyy101/LeeteCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/divyy101/LeeteCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/divyy101/LeeteCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/divyy101/LeeteCode/tree/master/0136-single-number) |
