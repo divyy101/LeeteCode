@@ -234,6 +234,7 @@
 | [0796-rotate-string](https://github.com/divyy101/LeeteCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyy101/LeeteCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/divyy101/LeeteCode/tree/master/1108-defanging-an-ip-address) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/divyy101/LeeteCode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
