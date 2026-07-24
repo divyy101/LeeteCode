@@ -16,6 +16,7 @@
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/divyy101/LeeteCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyy101/LeeteCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/divyy101/LeeteCode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyy101/LeeteCode/tree/master/2520-count-the-digits-that-divide-a-number) |
