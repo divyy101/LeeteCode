@@ -128,6 +128,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyy101/LeeteCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyy101/LeeteCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyy101/LeeteCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyy101/LeeteCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
