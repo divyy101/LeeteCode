@@ -42,6 +42,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -205,6 +206,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/divyy101/LeeteCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyy101/LeeteCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyy101/LeeteCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/divyy101/LeeteCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
@@ -273,6 +275,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyy101/LeeteCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyy101/LeeteCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/divyy101/LeeteCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/divyy101/LeeteCode/tree/master/0739-daily-temperatures) |
@@ -305,6 +308,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/divyy101/LeeteCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyy101/LeeteCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
