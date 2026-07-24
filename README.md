@@ -21,6 +21,7 @@
 | [2235-add-two-integers](https://github.com/divyy101/LeeteCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/divyy101/LeeteCode/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyy101/LeeteCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/divyy101/LeeteCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/divyy101/LeeteCode/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
