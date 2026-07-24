@@ -19,6 +19,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyy101/LeeteCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/divyy101/LeeteCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/divyy101/LeeteCode/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyy101/LeeteCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/divyy101/LeeteCode/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
@@ -378,4 +379,5 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/divyy101/LeeteCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/divyy101/LeeteCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
