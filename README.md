@@ -120,6 +120,7 @@
 | [0605-can-place-flowers](https://github.com/divyy101/LeeteCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/divyy101/LeeteCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/divyy101/LeeteCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/divyy101/LeeteCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/divyy101/LeeteCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/divyy101/LeeteCode/tree/master/0875-koko-eating-bananas) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyy101/LeeteCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/divyy101/LeeteCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/divyy101/LeeteCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/divyy101/LeeteCode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
