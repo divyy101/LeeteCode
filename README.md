@@ -58,6 +58,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyy101/LeeteCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/divyy101/LeeteCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/divyy101/LeeteCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/divyy101/LeeteCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
@@ -216,6 +217,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyy101/LeeteCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/divyy101/LeeteCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/divyy101/LeeteCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/divyy101/LeeteCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
@@ -257,6 +259,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/divyy101/LeeteCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/divyy101/LeeteCode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/divyy101/LeeteCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/divyy101/LeeteCode/tree/master/0796-rotate-string) |
