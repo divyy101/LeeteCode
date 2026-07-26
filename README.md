@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/divyy101/LeeteCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/divyy101/LeeteCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/divyy101/LeeteCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyy101/LeeteCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divyy101/LeeteCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/divyy101/LeeteCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/divyy101/LeeteCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyy101/LeeteCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/divyy101/LeeteCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0434-number-of-segments-in-a-string) |
