@@ -142,6 +142,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/divyy101/LeeteCode/tree/master/2942-find-words-containing-character) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -271,6 +272,7 @@
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyy101/LeeteCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/divyy101/LeeteCode/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/divyy101/LeeteCode/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
 | ------- |
