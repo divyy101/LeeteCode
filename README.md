@@ -140,6 +140,7 @@
 | [1920-build-array-from-permutation](https://github.com/divyy101/LeeteCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyy101/LeeteCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyy101/LeeteCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyy101/LeeteCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -272,6 +273,7 @@
 | [1108-defanging-an-ip-address](https://github.com/divyy101/LeeteCode/tree/master/1108-defanging-an-ip-address) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyy101/LeeteCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyy101/LeeteCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/divyy101/LeeteCode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/divyy101/LeeteCode/tree/master/2942-find-words-containing-character) |
 ## Trie
