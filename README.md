@@ -19,6 +19,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyy101/LeeteCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
 | [2119-a-number-after-a-double-reversal](https://github.com/divyy101/LeeteCode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/divyy101/LeeteCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/divyy101/LeeteCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/divyy101/LeeteCode/tree/master/2469-convert-the-temperature) |
@@ -170,6 +171,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyy101/LeeteCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
@@ -286,6 +288,7 @@
 | [0605-can-place-flowers](https://github.com/divyy101/LeeteCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/divyy101/LeeteCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/divyy101/LeeteCode/tree/master/0860-lemonade-change) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Stack
 |  |
 | ------- |
