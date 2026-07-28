@@ -142,6 +142,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/divyy101/LeeteCode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyy101/LeeteCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1720-decode-xored-array](https://github.com/divyy101/LeeteCode/tree/master/1720-decode-xored-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/divyy101/LeeteCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/divyy101/LeeteCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyy101/LeeteCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyy101/LeeteCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -181,6 +182,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyy101/LeeteCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/divyy101/LeeteCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
