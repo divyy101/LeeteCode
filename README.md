@@ -164,6 +164,7 @@
 | [0169-majority-element](https://github.com/divyy101/LeeteCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyy101/LeeteCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/divyy101/LeeteCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/divyy101/LeeteCode/tree/master/0496-next-greater-element-i) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyy101/LeeteCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/divyy101/LeeteCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -277,6 +279,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyy101/LeeteCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/divyy101/LeeteCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/divyy101/LeeteCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0434-number-of-segments-in-a-string) |
