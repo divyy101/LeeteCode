@@ -154,6 +154,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyy101/LeeteCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/divyy101/LeeteCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/divyy101/LeeteCode/tree/master/2942-find-words-containing-character) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -175,6 +176,7 @@
 | [0496-next-greater-element-i](https://github.com/divyy101/LeeteCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/divyy101/LeeteCode/tree/master/0771-jewels-and-stones) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
+| [2540-minimum-common-value](https://github.com/divyy101/LeeteCode/tree/master/2540-minimum-common-value) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
@@ -216,6 +218,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyy101/LeeteCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyy101/LeeteCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2540-minimum-common-value](https://github.com/divyy101/LeeteCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -253,6 +256,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/divyy101/LeeteCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
