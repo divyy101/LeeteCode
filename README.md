@@ -15,6 +15,7 @@
 | [0263-ugly-number](https://github.com/divyy101/LeeteCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyy101/LeeteCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/divyy101/LeeteCode/tree/master/0633-sum-of-square-numbers) |
@@ -55,6 +56,7 @@
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@
 | [0338-counting-bits](https://github.com/divyy101/LeeteCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/divyy101/LeeteCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -130,6 +133,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/divyy101/LeeteCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/divyy101/LeeteCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyy101/LeeteCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -467,4 +471,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
