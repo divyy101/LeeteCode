@@ -152,6 +152,7 @@
 | [1470-shuffle-the-array](https://github.com/divyy101/LeeteCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/divyy101/LeeteCode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyy101/LeeteCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyy101/LeeteCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/divyy101/LeeteCode/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/divyy101/LeeteCode/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/divyy101/LeeteCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -321,6 +322,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyy101/LeeteCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/divyy101/LeeteCode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyy101/LeeteCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyy101/LeeteCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divyy101/LeeteCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 | [1816-truncate-sentence](https://github.com/divyy101/LeeteCode/tree/master/1816-truncate-sentence) |
