@@ -320,6 +320,7 @@
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/divyy101/LeeteCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/divyy101/LeeteCode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/divyy101/LeeteCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/divyy101/LeeteCode/tree/master/0392-is-subsequence) |
