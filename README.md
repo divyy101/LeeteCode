@@ -333,6 +333,7 @@
 | [0680-valid-palindrome-ii](https://github.com/divyy101/LeeteCode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/divyy101/LeeteCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/divyy101/LeeteCode/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/divyy101/LeeteCode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyy101/LeeteCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/divyy101/LeeteCode/tree/master/1108-defanging-an-ip-address) |
