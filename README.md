@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/divyy101/LeeteCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyy101/LeeteCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/divyy101/LeeteCode/tree/master/0633-sum-of-square-numbers) |
