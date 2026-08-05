@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/divyy101/LeeteCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/divyy101/LeeteCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/divyy101/LeeteCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/divyy101/LeeteCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyy101/LeeteCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -42,6 +43,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/divyy101/LeeteCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/divyy101/LeeteCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/divyy101/LeeteCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/divyy101/LeeteCode/tree/master/0190-reverse-bits) |
