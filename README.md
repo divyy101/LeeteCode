@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/divyy101/LeeteCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/divyy101/LeeteCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/divyy101/LeeteCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/divyy101/LeeteCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyy101/LeeteCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/divyy101/LeeteCode/tree/master/0231-power-of-two) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/divyy101/LeeteCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/divyy101/LeeteCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/divyy101/LeeteCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/divyy101/LeeteCode/tree/master/0190-reverse-bits) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/divyy101/LeeteCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
@@ -341,6 +344,7 @@
 | [0006-zigzag-conversion](https://github.com/divyy101/LeeteCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/divyy101/LeeteCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/divyy101/LeeteCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
