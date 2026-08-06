@@ -40,6 +40,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/divyy101/LeeteCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyy101/LeeteCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/divyy101/LeeteCode/tree/master/3024-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/divyy101/LeeteCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/divyy101/LeeteCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -518,4 +519,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/divyy101/LeeteCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
