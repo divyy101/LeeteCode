@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/divyy101/LeeteCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/divyy101/LeeteCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/divyy101/LeeteCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/divyy101/LeeteCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/divyy101/LeeteCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
@@ -96,6 +97,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/divyy101/LeeteCode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/divyy101/LeeteCode/tree/master/0258-add-digits) |
@@ -347,6 +349,7 @@
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/divyy101/LeeteCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/divyy101/LeeteCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/divyy101/LeeteCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0151-reverse-words-in-a-string) |
