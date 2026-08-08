@@ -30,6 +30,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/divyy101/LeeteCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyy101/LeeteCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/divyy101/LeeteCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
 | [2119-a-number-after-a-double-reversal](https://github.com/divyy101/LeeteCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -171,6 +172,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/divyy101/LeeteCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/divyy101/LeeteCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/divyy101/LeeteCode/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyy101/LeeteCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyy101/LeeteCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/divyy101/LeeteCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -209,6 +211,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/divyy101/LeeteCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/divyy101/LeeteCode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/divyy101/LeeteCode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/divyy101/LeeteCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 | [2540-minimum-common-value](https://github.com/divyy101/LeeteCode/tree/master/2540-minimum-common-value) |
@@ -331,6 +334,7 @@
 | [0169-majority-element](https://github.com/divyy101/LeeteCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/divyy101/LeeteCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/divyy101/LeeteCode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divyy101/LeeteCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
