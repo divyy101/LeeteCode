@@ -29,6 +29,7 @@
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/divyy101/LeeteCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyy101/LeeteCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/divyy101/LeeteCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
@@ -89,6 +90,7 @@
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/divyy101/LeeteCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyy101/LeeteCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/divyy101/LeeteCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/divyy101/LeeteCode/tree/master/1480-running-sum-of-1d-array) |
@@ -319,6 +322,7 @@
 | [0303-range-sum-query-immutable](https://github.com/divyy101/LeeteCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/divyy101/LeeteCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/divyy101/LeeteCode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/divyy101/LeeteCode/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
@@ -529,8 +533,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/divyy101/LeeteCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
