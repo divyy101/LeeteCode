@@ -452,6 +452,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyy101/LeeteCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/divyy101/LeeteCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/divyy101/LeeteCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -460,6 +461,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyy101/LeeteCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/divyy101/LeeteCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/divyy101/LeeteCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -471,6 +473,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/divyy101/LeeteCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/divyy101/LeeteCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/divyy101/LeeteCode/tree/master/0547-number-of-provinces) |
@@ -481,6 +484,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyy101/LeeteCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/divyy101/LeeteCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/divyy101/LeeteCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
