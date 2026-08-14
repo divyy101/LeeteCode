@@ -175,6 +175,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/divyy101/LeeteCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyy101/LeeteCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/divyy101/LeeteCode/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/divyy101/LeeteCode/tree/master/1470-shuffle-the-array) |
@@ -320,6 +321,7 @@
 | [0917-reverse-only-letters](https://github.com/divyy101/LeeteCode/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/divyy101/LeeteCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyy101/LeeteCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/divyy101/LeeteCode/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/divyy101/LeeteCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
