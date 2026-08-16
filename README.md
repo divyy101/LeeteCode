@@ -33,6 +33,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyy101/LeeteCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/divyy101/LeeteCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
+| [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/divyy101/LeeteCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/divyy101/LeeteCode/tree/master/2235-add-two-integers) |
@@ -191,6 +192,7 @@
 | [1920-build-array-from-permutation](https://github.com/divyy101/LeeteCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyy101/LeeteCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyy101/LeeteCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyy101/LeeteCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -355,6 +357,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/divyy101/LeeteCode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divyy101/LeeteCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -421,6 +424,7 @@
 | [0680-valid-palindrome-ii](https://github.com/divyy101/LeeteCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/divyy101/LeeteCode/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/divyy101/LeeteCode/tree/master/0948-bag-of-tokens) |
+| [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyy101/LeeteCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -555,6 +559,7 @@
 | [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -563,8 +568,14 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
