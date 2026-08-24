@@ -21,6 +21,7 @@
 | [0263-ugly-number](https://github.com/divyy101/LeeteCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/divyy101/LeeteCode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/divyy101/LeeteCode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/divyy101/LeeteCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
@@ -110,6 +111,7 @@
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/divyy101/LeeteCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/divyy101/LeeteCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
@@ -393,6 +395,7 @@
 | [0383-ransom-note](https://github.com/divyy101/LeeteCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/divyy101/LeeteCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/divyy101/LeeteCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/divyy101/LeeteCode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/divyy101/LeeteCode/tree/master/0771-jewels-and-stones) |
