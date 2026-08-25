@@ -199,6 +199,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/divyy101/LeeteCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/divyy101/LeeteCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyy101/LeeteCode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyy101/LeeteCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyy101/LeeteCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyy101/LeeteCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -414,6 +415,7 @@
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
 | [1816-truncate-sentence](https://github.com/divyy101/LeeteCode/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/divyy101/LeeteCode/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyy101/LeeteCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyy101/LeeteCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyy101/LeeteCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/divyy101/LeeteCode/tree/master/2129-capitalize-the-title) |
