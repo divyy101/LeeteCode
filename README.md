@@ -385,6 +385,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyy101/LeeteCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/divyy101/LeeteCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## String
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [2129-capitalize-the-title](https://github.com/divyy101/LeeteCode/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/divyy101/LeeteCode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/2785-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/divyy101/LeeteCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/divyy101/LeeteCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyy101/LeeteCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
