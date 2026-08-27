@@ -247,6 +247,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divyy101/LeeteCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/divyy101/LeeteCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/divyy101/LeeteCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -376,6 +377,7 @@
 | [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/divyy101/LeeteCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyy101/LeeteCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/divyy101/LeeteCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -450,6 +453,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyy101/LeeteCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/divyy101/LeeteCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -587,6 +591,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/divyy101/LeeteCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/divyy101/LeeteCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
