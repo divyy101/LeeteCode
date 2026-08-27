@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/divyy101/LeeteCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/divyy101/LeeteCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/divyy101/LeeteCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/divyy101/LeeteCode/tree/master/0055-jump-game) |
@@ -395,6 +396,7 @@
 | [0005-longest-palindromic-substring](https://github.com/divyy101/LeeteCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/divyy101/LeeteCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/divyy101/LeeteCode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/divyy101/LeeteCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/divyy101/LeeteCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/divyy101/LeeteCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/divyy101/LeeteCode/tree/master/0067-add-binary) |
@@ -539,6 +541,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/divyy101/LeeteCode/tree/master/0022-generate-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/divyy101/LeeteCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
@@ -622,4 +625,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/divyy101/LeeteCode/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/divyy101/LeeteCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
