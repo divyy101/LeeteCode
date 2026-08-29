@@ -211,6 +211,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/divyy101/LeeteCode/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/divyy101/LeeteCode/tree/master/2942-find-words-containing-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyy101/LeeteCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/divyy101/LeeteCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/divyy101/LeeteCode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/divyy101/LeeteCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -275,6 +276,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyy101/LeeteCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/divyy101/LeeteCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/divyy101/LeeteCode/tree/master/3024-type-of-triangle) |
@@ -561,6 +563,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/divyy101/LeeteCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divyy101/LeeteCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyy101/LeeteCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
