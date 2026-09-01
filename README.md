@@ -69,6 +69,7 @@
 | [0645-set-mismatch](https://github.com/divyy101/LeeteCode/tree/master/0645-set-mismatch) |
 | [1720-decode-xored-array](https://github.com/divyy101/LeeteCode/tree/master/1720-decode-xored-array) |
 | [1763-longest-nice-substring](https://github.com/divyy101/LeeteCode/tree/master/1763-longest-nice-substring) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/divyy101/LeeteCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyy101/LeeteCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
@@ -217,6 +218,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/divyy101/LeeteCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/divyy101/LeeteCode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/divyy101/LeeteCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/divyy101/LeeteCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyy101/LeeteCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divyy101/LeeteCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/divyy101/LeeteCode/tree/master/3731-find-missing-elements) |
@@ -251,6 +253,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/divyy101/LeeteCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/divyy101/LeeteCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divyy101/LeeteCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/divyy101/LeeteCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/divyy101/LeeteCode/tree/master/3731-find-missing-elements) |
@@ -374,6 +377,7 @@
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/divyy101/LeeteCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/divyy101/LeeteCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting
 |  |
@@ -542,6 +546,7 @@
 | [0743-network-delay-time](https://github.com/divyy101/LeeteCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/divyy101/LeeteCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divyy101/LeeteCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/divyy101/LeeteCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
