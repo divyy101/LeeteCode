@@ -230,6 +230,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/divyy101/LeeteCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/divyy101/LeeteCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/divyy101/LeeteCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/divyy101/LeeteCode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/divyy101/LeeteCode/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/divyy101/LeeteCode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
