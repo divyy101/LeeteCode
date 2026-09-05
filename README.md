@@ -172,6 +172,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyy101/LeeteCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/divyy101/LeeteCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/divyy101/LeeteCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
@@ -254,6 +255,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/divyy101/LeeteCode/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyy101/LeeteCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/divyy101/LeeteCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/divyy101/LeeteCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/divyy101/LeeteCode/tree/master/0771-jewels-and-stones) |
