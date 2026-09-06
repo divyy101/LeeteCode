@@ -278,6 +278,7 @@
 | [0015-3sum](https://github.com/divyy101/LeeteCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/divyy101/LeeteCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/divyy101/LeeteCode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/divyy101/LeeteCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/divyy101/LeeteCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyy101/LeeteCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/divyy101/LeeteCode/tree/master/0268-missing-number) |
@@ -332,6 +333,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyy101/LeeteCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/divyy101/LeeteCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/divyy101/LeeteCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/divyy101/LeeteCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/divyy101/LeeteCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/divyy101/LeeteCode/tree/master/0191-number-of-1-bits) |
@@ -352,6 +354,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyy101/LeeteCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/divyy101/LeeteCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/divyy101/LeeteCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/divyy101/LeeteCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyy101/LeeteCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyy101/LeeteCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -531,6 +534,7 @@
 | [0061-rotate-list](https://github.com/divyy101/LeeteCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/divyy101/LeeteCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/divyy101/LeeteCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/divyy101/LeeteCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyy101/LeeteCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/divyy101/LeeteCode/tree/master/0234-palindrome-linked-list) |
@@ -677,4 +681,8 @@
 |  |
 | ------- |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/divyy101/LeeteCode/tree/master/3334-find-the-maximum-factor-score-of-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/divyy101/LeeteCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
