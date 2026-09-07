@@ -105,6 +105,7 @@
 | [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/divyy101/LeeteCode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 ## Memoization
@@ -452,6 +453,7 @@
 | [0824-goat-latin](https://github.com/divyy101/LeeteCode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/divyy101/LeeteCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/divyy101/LeeteCode/tree/master/0917-reverse-only-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/divyy101/LeeteCode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyy101/LeeteCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/divyy101/LeeteCode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyy101/LeeteCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
