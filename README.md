@@ -557,6 +557,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/divyy101/LeeteCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/divyy101/LeeteCode/tree/master/0404-sum-of-left-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyy101/LeeteCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -570,6 +571,7 @@
 | [0743-network-delay-time](https://github.com/divyy101/LeeteCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/divyy101/LeeteCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divyy101/LeeteCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyy101/LeeteCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -590,6 +592,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/divyy101/LeeteCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyy101/LeeteCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/divyy101/LeeteCode/tree/master/0404-sum-of-left-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyy101/LeeteCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
