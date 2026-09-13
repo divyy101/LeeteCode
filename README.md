@@ -191,6 +191,7 @@
 | [0682-baseball-game](https://github.com/divyy101/LeeteCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/divyy101/LeeteCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/divyy101/LeeteCode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/divyy101/LeeteCode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/divyy101/LeeteCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/divyy101/LeeteCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
@@ -410,6 +411,7 @@
 | [0059-spiral-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/divyy101/LeeteCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyy101/LeeteCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/divyy101/LeeteCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divyy101/LeeteCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/divyy101/LeeteCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting
