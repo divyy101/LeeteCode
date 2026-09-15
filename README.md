@@ -113,6 +113,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/divyy101/LeeteCode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/divyy101/LeeteCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
@@ -393,6 +394,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyy101/LeeteCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/divyy101/LeeteCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/divyy101/LeeteCode/tree/master/2460-apply-operations-to-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/divyy101/LeeteCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/divyy101/LeeteCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/divyy101/LeeteCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/divyy101/LeeteCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -482,6 +484,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyy101/LeeteCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/divyy101/LeeteCode/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/divyy101/LeeteCode/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/divyy101/LeeteCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/divyy101/LeeteCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/divyy101/LeeteCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/divyy101/LeeteCode/tree/master/2942-find-words-containing-character) |
@@ -514,6 +517,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/divyy101/LeeteCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/divyy101/LeeteCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/divyy101/LeeteCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/divyy101/LeeteCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyy101/LeeteCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyy101/LeeteCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/divyy101/LeeteCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
