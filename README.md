@@ -37,6 +37,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divyy101/LeeteCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/divyy101/LeeteCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/divyy101/LeeteCode/tree/master/1518-water-bottles) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/divyy101/LeeteCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/divyy101/LeeteCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/divyy101/LeeteCode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -113,6 +114,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/divyy101/LeeteCode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/divyy101/LeeteCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/divyy101/LeeteCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/divyy101/LeeteCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -407,6 +409,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/divyy101/LeeteCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/divyy101/LeeteCode/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/divyy101/LeeteCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2574-left-and-right-sum-differences](https://github.com/divyy101/LeeteCode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/divyy101/LeeteCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/divyy101/LeeteCode/tree/master/3904-smallest-stable-index-ii) |
@@ -655,6 +658,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/divyy101/LeeteCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/divyy101/LeeteCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
