@@ -31,6 +31,7 @@
 | [0836-rectangle-overlap](https://github.com/divyy101/LeeteCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/divyy101/LeeteCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/divyy101/LeeteCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyy101/LeeteCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -112,6 +113,7 @@
 | [0509-fibonacci-number](https://github.com/divyy101/LeeteCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/divyy101/LeeteCode/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/divyy101/LeeteCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/divyy101/LeeteCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/divyy101/LeeteCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -665,6 +667,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/divyy101/LeeteCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/divyy101/LeeteCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/divyy101/LeeteCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/divyy101/LeeteCode/tree/master/1140-stone-game-ii) |
 | [1927-sum-game](https://github.com/divyy101/LeeteCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/divyy101/LeeteCode/tree/master/2029-stone-game-ix) |
@@ -721,4 +724,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/divyy101/LeeteCode/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/divyy101/LeeteCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/divyy101/LeeteCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
